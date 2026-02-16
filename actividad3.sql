@@ -1,0 +1,3 @@
+-- Actividad 3: Gestión de Transacciones en PostgreSQL
+-- Autor: Lucz Almonte Javier
+-- Materia: Bases de Datos 2
